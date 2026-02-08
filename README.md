@@ -1,4 +1,3 @@
-<h1 align="center">I'm Rojan Ghimire</h1>
 <h3 align="center">Data & Analytics Enthusiast | Programmer | Tech Explorer</h3>
 
 <p align="center">
